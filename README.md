@@ -1,4 +1,6 @@
 # Paint 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/upenderrreddy/paint/blob/master/LICENSE.md)
+
 
 This is a Paint program created using Python and Tkinter
 
